@@ -13,3 +13,6 @@ database of the particular day.
 ● The students now are able to mark their attendance all by themselves which saves a hefty amount of
 time ,is easy to operate and saves wastage of resources.
 ● Also for the purpose of preventing proxys, our app doesn’t allow taking screenshot of the QR code page.
+For better explaination refer to the below video
+
+https://youtu.be/mJdggoPANN4
